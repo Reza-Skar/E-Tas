@@ -4,3 +4,5 @@
 همچنین فایل شبیه سازی پروتئوس را با نام E-Tas.pdsprj قرار داده ام.
 # شماتیک مدار
 <img src="https://github.com/Reza-Skar/E-Tas/raw/main/Schematic.jpg"/>
+# ویدیوی طرز کار مدار
+https://uupload.ir/view/rec_0041_mm9.mp4/
