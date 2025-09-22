@@ -2,7 +2,7 @@
 # تاس الکترونیکی
 با فشردن کلید تاس شروع به نمایش اعداد میکند و کم کم سرعتش کم شده و در نهایت چهار مرتبه چشمک زده و عدد نهایی را نمایش میدهد.
 همچنین فایل شبیه سازی پروتئوس را با نام E-Tas.pdsprj قرار داده ام.
-# شماتیک مدار
-<img src="https://github.com/Reza-Skar/E-Tas/raw/main/Schematic.jpg"/>
 # ویدیوی طرز کار مدار
 https://uupload.ir/view/rec_0041_mm9.mp4/
+# شماتیک مدار
+<img src="https://github.com/Reza-Skar/E-Tas/raw/main/Schematic.jpg"/>
